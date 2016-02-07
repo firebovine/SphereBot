@@ -1,5 +1,13 @@
 # SphereBot - firebovine variant
 
+
+This firmware is to be used with the ELECTRONICS from this SphereBot.
+
+http://www.thingiverse.com/thing:7656
+
+The actual physical construction of the spherebot is less important, as long as you configure the firmware correctly.
+I myself used a 3d printed variant with minor modifications.
+
 This is my pixelperfect modified firmware. A very simple modification.
 
 I made this firmware so that each unit(pixel) in an exported SVG will correlate 1:1 with hardware steps.
