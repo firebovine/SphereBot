@@ -23,5 +23,6 @@ See SphereBot.ino for pin configuration settings, min/max for wiggle-waggle (sid
 
 Under Utils/ is feeder.py ...it feeds generated g-code to the configured serial device. It could probably work with Windows with only limited modification.
 
+To generate g-code for this firmware, I use inkscape with a plugin that I modified. It can be found here:
 
-To generate g-code for this firmware, I use inkscape with a plugin.
+https://github.com/firebovine/inkscape-spherebot/
